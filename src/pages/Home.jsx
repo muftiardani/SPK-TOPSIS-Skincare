@@ -6,7 +6,6 @@ import face from '../assets/images/face.png'
 import moisturizer from '../assets/images/moisturizer.png'
 import serum from '../assets/images/serum.png'
 
-// Gambar baru (laptop dan phone) import di sini juga
 import laptop from '../assets/images/laptop-preview.png'
 import phone from '../assets/images/phone-preview.png'
 
