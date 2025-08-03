@@ -1,6 +1,6 @@
 <h1>Find Your Skincare Soulmate</h1>
 
-**Kulitku** is a web application designed to provide objective and personalised skincare recommendations to consumers in Indonesia using the scientific TOPSIS method.
+**KULITKU** is a web application designed to provide objective and personalised skincare recommendations to consumers in Indonesia using the scientific TOPSIS method.
 
 ## 🎯 Background
 The Indonesian skincare market is vast, but this creates a paradox of choice for consumers. Faced with thousands of products and subjective influencer reviews, finding the right product can be confusing, expensive, and risky. Kulitku is here to simplify this complex landscape by providing a reliable, data-driven decision-making tool.
