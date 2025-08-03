@@ -1,12 +1,11 @@
-# React + Vite
+<h1>Find Your Skincare Soulmate</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Kulitku** is a web application designed to provide objective and personalised skincare recommendations to consumers in Indonesia using the scientific TOPSIS method.
 
-Currently, two official plugins are available:
+## 🎯 Background
+The Indonesian skincare market is vast, but this creates a paradox of choice for consumers. Faced with thousands of products and subjective influencer reviews, finding the right product can be confusing, expensive, and risky. Kulitku is here to simplify this complex landscape by providing a reliable, data-driven decision-making tool.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Main Features
+- **Personalised Input:** Users enter their specific criteria, such as skin type (Normal, Oily, etc.) and the skincare category they are seeking (Cleanser, Sunscreen, etc.).
+- **Smart Analysis (TOPSIS Method):** The core of our application. The system analyses a curated product database, compares it against various criteria (such as skin compatibility and price), and calculates an objective compatibility score for each product.
+- **Top Recommendations:** Provides a clearly ranked list of products, enabling users to make smart and confident purchasing decisions.
