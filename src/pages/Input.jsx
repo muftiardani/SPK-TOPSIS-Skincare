@@ -11,7 +11,7 @@ export default function Input() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const API_URL = 'https://365f739ba0ea.ngrok-free.app/recommend';
+    const API_URL = 'https://a816b39a622b.ngrok-free.app/recommend';
 
     const requestData = {
       skin_type: skinType,

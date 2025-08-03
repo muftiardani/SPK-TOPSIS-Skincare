@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Kolom Brand */}
         <div>
           <h3 style={{ marginBottom: "1rem" }}>Kulitku</h3>
-          <p>Temukan skincare terbaik untuk kulitmu.</p>
+          <p>Find Your Skin Soulmate</p>
         </div>
 
         {/* Kolom Menu */}
@@ -15,8 +15,8 @@ const Footer = () => {
           <h4 style={{ marginBottom: "0.5rem" }}>Menu</h4>
           <ul style={{ listStyle: "none", padding: 0 }}>
             <li><a href="#">Home</a></li>
-            <li><a href="#">Rekomendasi</a></li>
-            <li><a href="#">Tentang</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Get Matched Now</a></li>
           </ul>
         </div>
 

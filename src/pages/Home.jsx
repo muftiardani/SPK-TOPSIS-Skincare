@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom'
 import '../styles/Home.css'
 
 import face from '../assets/images/face.png'
-import moisturizer from '../assets/images/moisturizer.png'
+import mois from '../assets/images/mois.png'
 import serum from '../assets/images/serum.png'
 
 import laptop from '../assets/images/laptop-preview.png'
@@ -11,7 +11,7 @@ import phone from '../assets/images/phone-preview.png'
 
 import cleanser from '../assets/images/cleanser.png'
 import toner from '../assets/images/toner.png'
-import mois from '../assets/images/mois.png'
+import moisturizer from '../assets/images/moisturizer.png'
 
 export default function Home() {
   const location = useLocation()
@@ -28,7 +28,7 @@ export default function Home() {
     <main>
       {/* === HERO SECTION === */}
       <section id="homesection" className="homesection">
-        <img src={moisturizer} alt="moisturizer" className="moisturizer" />
+        <img src={mois} alt="moisturizer" className="moisturizer" />
         <img src={serum} alt="serum" className="serum" />
 
         <div className="center-content">
@@ -124,7 +124,7 @@ export default function Home() {
         <p>Toner</p>
       </div>
       <div className="product">
-        <img src={mois} alt="Moisturizer" />
+        <img src={moisturizer} alt="Moisturizer" />
         <p>Moisturizer</p>
       </div>
     </div>
@@ -134,7 +134,7 @@ export default function Home() {
   <p className="skin-desc">
     Input Your Skin Type Get Instant Skincare Picks. Get personalized skincare
     recommendations in just seconds just enter your skin condition. Input your
-    skin condition, get instant skincare recommendations
+    skin condition, get instant skincare recommendations.
   </p>
 </section>
 
